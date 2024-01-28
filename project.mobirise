@@ -55,15 +55,16 @@
     "versionPublish": "5.9.6",
     "favicon": false,
     "mbrsiteDomain": "x1cxu1kp4i",
-    "imageResize": false,
-    "usedWebp": false,
+    "imageResize": true,
+    "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
